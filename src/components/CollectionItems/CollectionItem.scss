@@ -20,6 +20,21 @@
       top: 255px;
       position: absolute;
       display: none;
+      min-width: 165px;
+      width: auto;
+      height: 50px;
+      letter-spacing: 0.5px;
+      line-height: 50px;
+      padding: 0 35px 0 35px;
+      font-size: 15px;
+      background-color: black;
+      color: white;
+      text-transform: uppercase;
+      font-family: 'Open Sans Condensed';
+      font-weight: bolder;
+      border: none;
+      cursor: pointer;
+      justify-content: center;
     }
 
     &:hover {
@@ -28,7 +43,7 @@
       }
 
       .custom-button {
-        opacity: 0.85;
+        opacity: 0.8;
         display: flex;
       }
     }

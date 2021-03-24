@@ -1,7 +1,7 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
-import collection from '../pages/collection/collection';
+// import collection from '../pages/collection/collection';
 
 const config = {
     
